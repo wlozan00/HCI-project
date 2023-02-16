@@ -70,3 +70,61 @@ Na ovoj slici su prikazani low-fidelity modeli vezani uz **Landing, About us, Lo
 
 Na ovoj slici su prikazani low-fidelity modeli vezani uz mobilne verzije **Landing, Movie** i **About us** stranica.
 
+![Title](Images/Mobile-low-fid.png)
+
+### Buy/reserve page
+
+Struktura stranice za prodaju/rezervaciju karata će imati drugačiji dizajn od ostalih stranica te je njen low-fid dizajn prikazan na slici ispod.
+
+![Title](Images/Buy-tickets-low-fid.png)
+
+## High fidelity
+
+Nakon izrade low-fidelity prototipa krenili smo u izradu **high-fidelity** modela u figmi koji bi trebao predstavljati konačan izgled aplikacije.
+
+### Landing page
+
+Dakle kao što je bilo definirano u low-fid modelu, Landing page bi trebala sadržavati nekakve interaktivne kartice koje u sebi imaju kratki opis filmova koji se trenutno prikazuju. Također nudi mogućnost biranja lokacije kino dvorane najbliže kupcu, dana emitiranja filma te željene tehnologije prikaza (2D ili 3D uglavnom, ponekad i 4D).
+
+![Title](Images/Landing-page.png)
+
+### About us
+
+Nekakva stranica koja sadrži kratki pregled naših usluga i ambicija. Izuzetno smo ponosni s razinom transparentnosti koju imamo s našim kupcima i s činjenicom da nudimo mogućnost otvorenog kritiziranja kako bi im što više poboljšali i optimizirali *user experience*.
+
+![Title](Images/About-us.png)
+
+### Locations page
+
+Locations page sadrži najosnovnije informacije o lokaciji, kontaktu i trenutnom stanju svih naših kino dvorana.
+
+![Title](Images/Locations-page.png)
+
+### Prodaja karata
+
+Dosta nam je bilo kompliciranih stranica za plaćanje i/ili rezerviranja kino karata, stoga smo dizajnirali sučelje koje bi svim korisnicima trebalo biti jednostavno za korištenje i konačno osloboditi ih od bilokakvih briga od mogućih pogrešaka pri unosu podataka.
+
+![Title](Images/Buy-Reserve.png)
+![Title](Images/Payment.png)
+
+### Ponovno upotrebljive komponente
+
+Kako bi održali konzistentnost izgleda aplikacije, definirali smo nekoliko ponavljajućih komponenti korištenih konstantno duž cijele aplikacije. Prva od njih na koju korisnik nailazi je **header** komponenta koja sadrži linkove na određene stranice i gumb za pretplatu na naš **newsleter**.
+
+![Title](Images/Header.png)
+
+Druga ponavljajuća komponenta na koju korisnik nailazi je vjerojatno **cards** komponenta koja služi kao meni naših ponuđenih usluga.
+
+![Title](Images/Cards.png)
+
+Konačna *re-usable* komponenta nalazi se na dnu stranice, a to je **footer** komponenta koja sadrži kontaktne informacije, bilo to broj mobitela ili računi na popularnim društvenim mrežama.
+
+![Title](Images/Footer.png)
+
+### Mobilna verzija
+
+Radi nepreglednosti na računalnim ekranima u ovom izvještaju je dan istovremeni pregled svih mobilnih stranica unutar figme.
+
+![Title](Images/Mobile%20overview.png)
+
+
