@@ -127,4 +127,35 @@ Radi nepreglednosti na računalnim ekranima u ovom izvještaju je dan istovremen
 
 ![Title](Images/Mobile%20overview.png)
 
+Istotako, za mobilnu verziju aplikacije definiran je vlastiti **hamburger meni** koji doprinosi preglednosti aplikacije na ovoj platformi.
 
+![Title](Images/Mobile-reusable.png)
+
+## Evaluacija
+
+U procesu izrade ove aplikacije pobrinuli smo se da slijedimo osnovna UI/UX načela, o kojima smo naučili na predavanjima iz predmeta **Korisnička sučelja** ove godine.
+
+### Korišteni principi Normanovog dizajna
+
+- Visibility
+- Feedback
+- Constraints
+- Consistency
+- Mental models
+
+### Korištene usability heuristike
+
+- Consistency and standards
+- Visibility of system status
+- User control and freedom
+- Error preventions
+- Recognition rather than recall
+- Aesthetic and minimalist design
+
+
+### CRAP principi korišteni unutar aplikacije
+
+- Contrast
+- Repetition
+- Alignment
+- Proximity
